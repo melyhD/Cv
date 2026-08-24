@@ -11,7 +11,7 @@ state_cr = ""
 start = None
 
 green = (0, 255, 0)
-red = (0, 0, 255)
+red = (0, 0, 235)
 
 ln_wdt = 1
 
